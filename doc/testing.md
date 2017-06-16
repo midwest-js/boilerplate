@@ -1,0 +1,7 @@
+# Testing
+
+## Server
+
+```
+$ npm test
+```
